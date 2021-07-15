@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['if_5fneeded',['if_needed',['../classllfio__v2__xxx_1_1handle.html#af0b352d0f273ba6fa70c178b2c2fee42a8f0339e854eb5321306a443ce9199e1d',1,'llfio_v2_xxx::handle']]],
-  ['invalid_5furi',['invalid_uri',['../namespacekvstore__v1__xxx.html#a7bc2f2673bddc429b098b16e413deb5fa4ab2ea6999620ebeb2367865909977ab',1,'kvstore_v1_xxx']]]
+  ['environment_1480',['environment',['../structllfio__v2__xxx_1_1path__discovery_1_1discovered__path.html#ae02f172851c050f6a7f5929410428c7dae900e40bc91d3f9f7f0a99fed68a2e96',1,'llfio_v2_xxx::path_discovery::discovered_path']]],
+  ['exclusive_1481',['exclusive',['../namespacellfio__v2__xxx.html#ae79486289ff1386b26d1ce60bb797d33aa4293995cfbfa9ce60ce71ade2ff75f7',1,'llfio_v2_xxx']]]
 ];

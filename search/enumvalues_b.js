@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['unknown',['unknown',['../structllfio__v2__xxx_1_1path__discovery_1_1discovered__path.html#ae02f172851c050f6a7f5929410428c7daad921d60486366258809553a3db49a4a',1,'llfio_v2_xxx::path_discovery::discovered_path']]],
-  ['unsupported_5fintegrity',['unsupported_integrity',['../namespacekvstore__v1__xxx.html#a7bc2f2673bddc429b098b16e413deb5fadfa4eb2805883a2c1653229e6c18aa70',1,'kvstore_v1_xxx']]],
-  ['unsupported_5furi',['unsupported_uri',['../namespacekvstore__v1__xxx.html#a7bc2f2673bddc429b098b16e413deb5fa88845d2baf0c5f2c895cd23bd72e3b07',1,'kvstore_v1_xxx']]]
+  ['only_5fif_5fnot_5fexist_1500',['only_if_not_exist',['../classllfio__v2__xxx_1_1handle.html#af0b352d0f273ba6fa70c178b2c2fee42abba3bc579480e6c94ecd81b7b5923255',1,'llfio_v2_xxx::handle']]],
+  ['only_5fmetadata_1501',['only_metadata',['../classllfio__v2__xxx_1_1handle.html#aecd3a7db6cee3aec07d32fe6f99e6852ab8a61dd00ce6fc5888706bda8fab2e98',1,'llfio_v2_xxx::handle']]],
+  ['open_5fexisting_1502',['open_existing',['../classllfio__v2__xxx_1_1handle.html#af0b352d0f273ba6fa70c178b2c2fee42aa200dcd6176417e93be2405188ae7cc9',1,'llfio_v2_xxx::handle']]]
 ];
